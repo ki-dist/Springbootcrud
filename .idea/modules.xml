@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jpa-training.iml" filepath="$PROJECT_DIR$/.idea/Jpa-training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training-data-jpa/training-project-master/training-project.iml" filepath="$PROJECT_DIR$/training-data-jpa/training-project-master/training-project.iml" />
+    </modules>
+  </component>
+</project>
